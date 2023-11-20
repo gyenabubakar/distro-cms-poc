@@ -1,0 +1,20 @@
+{
+  "cms": {
+    "pageTitle": "Sergio Ruiz - Software Engineer",
+    "pageDescription": "Software Engineer based in Madrid",
+    "pageElements": {
+      "title": {
+        "title": "Hero Title",
+        "markdown": "Hello, I'm **Sergio**"
+      },
+      "description": {
+        "title": "Hero Description",
+        "markdown": "I'm a **Software Engineer** based in _Madrid_."
+      },
+      "cta": {
+        "title": "Call To Action",
+        "markdown": "Get in touch"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cms": {
+    "pageTitle": "About — Sergio Ruiz",
+    "pageDescription": "Software Engineer based in Madrid",
+    "pageElements": {
+      "title": {
+        "title": "About Me",
+        "markdown": "I'm just a human being.",
+        "isVisible": true
+      }
+    }
+  }
+}
